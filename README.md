@@ -27,7 +27,7 @@ QtTalk 是一个使用 **Qt + C++** 开发的桌面聊天客户端，支持基�
 
   
 #界面仿照微信客户端，提供登录、注册、邮箱验证、聊天等功能，支持文字、图片等消息格式。
-![image](https://github.com/1li2yang3/WeiXing_Client/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+![image](效果图.png)
 
 
 
